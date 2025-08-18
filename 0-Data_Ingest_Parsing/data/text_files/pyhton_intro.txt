@@ -1,0 +1,30 @@
+1-data_ingestion.ipynb
+    Python is a high-level, versatile, and easy-to-learn programming language that 
+    is widely used across various domains such as web development, data science, machine 
+    learning, automation, and software development. Known for its simple syntax and readability, 
+    Python allows developers to write clean and efficient code with fewer lines compared to many 
+    other languages. It supports multiple programming paradigms including object-oriented,
+    procedural, and functional programming, making it flexible for different types of projects. 
+    With a vast ecosystem of libraries and frameworks like NumPy, Pandas, Django, and TensorFlow,
+    Python empowers beginners and professionals alike to build powerful applications quickly. 
+    Its strong community support and cross-platform compatibility further make it one of the most 
+    popular and in-demand programming languages in the world today.
+
+    Here are some key features of Python 
+
+Simple & Easy to Learn – Python has a clean, readable syntax close to English, making it beginner-friendly.
+
+Interpreted Language – No need for compilation; Python code runs directly, making debugging easier.
+
+Cross-Platform – Works on Windows, Mac, Linux, and even mobile/embedded systems.
+
+Open Source & Free – Anyone can use and modify it without cost.
+
+Extensive Libraries – Comes with rich standard libraries and third-party modules for almost every domain (AI, Data Science, Web, etc.).
+
+Object-Oriented & Multi-Paradigm – Supports OOP, procedural, and functional programming styles.
+
+Dynamic Typing – No need to declare variable types; Python decides at runtime.
+
+High-Level Language – Focuses on problem-solving rather than low-level details like memory management.
+    
